@@ -1,4 +1,4 @@
-# kidnames_app
+# startup_namer
 
 A new Flutter application.
 
